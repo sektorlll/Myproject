@@ -5,7 +5,7 @@ package.domain = org.mauricio
 source.dir = .
 source.include_exts = py
 version = 1.0
-requirements = python3,kivy,requests,urllib3,idna,chardet,certifi
+requirements = hostpython3==3.11.5,python3==3.11.5,kivy==2.3.0,requests,urllib3,idna,chardet,certifi
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE
